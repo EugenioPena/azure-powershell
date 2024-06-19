@@ -20,6 +20,8 @@
 
 -->
 ## Upcoming Release
+
+## Version 8.1.0
 * Added parameter `-IdentityType` to cmdlet `Update-AzDiskEncryptionSet`. 
 
 ## Version 8.0.0

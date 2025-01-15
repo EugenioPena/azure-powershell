@@ -19,6 +19,7 @@
 --->
 
 ## Upcoming Release
+* Added cmdlet `Get-AzLoadBalancerRuleHealth` for Load Balancer Rule Health.
 * Updated vnv and ipam cmdlets
 * Allowed TA interval to be set as 0 incase TA is disabled
 * Onboarded Azure Virtual Network Manager Cmdlets for IpamPool
@@ -49,7 +50,6 @@
 * Added `DefaultOutboundConnectivityEnabled` property in PSNetworkInterface
 * Added support for `AutoscaleConfiguration` property in `AzureFirewall` model for `New-AzFirewall` and `Set-AzFirewall` commands
 * Added support for `ResiliencyModel` property in `New-AzVirtualNetworkGateway` and `Set-AzVirtualNetworkGateway` command for ExpressRoute
-* Added cmdlet `Get-AzLoadBalancerRuleHealth` for Load Balancer Rule Health.
 
 ## Version 7.11.0
 * Updated Device Update Private Link provider configuration
